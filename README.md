@@ -35,5 +35,6 @@
   ## Questions:
   If you have questions please Email: marcustwalker921@gmail.com<br />
   See: GitHub:  (https://github.com/mwalker35-stack)
-  ![alt text](https://chat-social-4-6-22.herokuapp.com/#home)
+  Deployed: https://chat-social-4-6-22.herokuapp.com/#home
+  ![alt text]()
   
